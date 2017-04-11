@@ -1,0 +1,126 @@
+nav{
+	width: 100%;
+}
+nav>img{
+	width: 100%;
+	display: block;
+}
+.baina{
+	width: 100%;
+}
+.baina>img{
+	width: 100%;
+	display: block;
+}
+.jinpai{
+	width: 100%;
+	background: #F5F6FA;
+	padding: 0rem 0.2rem;
+	box-sizing: border-box;
+}
+.jinpai1{
+	height: 0.75rem;
+	width: 0.7rem;
+	float: left;
+
+}
+
+.jinpai1>a>{
+	display: block;
+	height: 100%;
+}
+.jinpai1>a>span{
+font-size: 0.25rem;
+color: black;
+line-height: 0.75rem;
+font-weight: bold;
+}
+.jinpai>span{
+	font-size: 0.25rem;
+	line-height: 0.75rem;
+	color: black;
+	margin-right: 0.1rem;
+	font-weight: bold;
+}
+.kuandu{
+	width: 100%;
+	padding: 0rem 0.2rem;
+	box-sizing: border-box;
+	background: #F5F6FA;
+}
+.box1{
+	width: 100%;
+	padding:0.3rem 0.2rem;
+	box-sizing: border-box;
+	background: white;
+}
+.box1>div:first-child{
+	width: 0.05rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	float: left;
+	margin-top: 0.06rem;
+}
+.box1>span:first-of-type{
+	font-size: 0.25rem;
+	font-weight: bold;
+	display: inline-block;
+	border-bottom:0.01rem dashed #c1c1c1;
+	padding-bottom:0.1rem;
+	box-sizing: border-box;
+	width: 95%;
+	margin-left:0.2rem ;
+}
+.box2{
+	width: 100%;
+	padding-left: 0.2rem;
+	box-sizing: border-box;
+	padding-top: 0.3rem;
+	overflow: hidden;
+}
+.box2-1>img{
+	width:2.78rem;
+	display: block;
+	
+}
+.box2-1{
+	float: left;
+}
+.box2-2{
+	float: left;
+	width: 50%;
+
+}
+.box2-2>span:first-of-type{
+	font-size: 0.3rem;
+	color: black;
+	font-weight: 900;
+	margin-left:0.2rem;
+		
+}
+.box2-2>span:nth-child(2){
+	font-size: 0.25rem;
+	color: #01B5FF;
+		
+}
+.box2-2>span:nth-child(3){
+	font-size: 0.25rem;
+	color: #01B5FF;
+		
+}
+.box2-2>div>pre{
+	font-size: 0.25rem;
+	font-weight:900;
+	margin-left: 0.2rem;
+	/* margin-top: 0.5rem; */
+	display: inline-block;
+	float: left;
+	
+}
+.box2-2>div{
+	overflow: hidden;
+}
+.box2-2>div>span{
+	float: left;
+	font-size: 0.25rem;
+}
